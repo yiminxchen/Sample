@@ -3,3 +3,11 @@
 ################################################################################
 
 /SampleApp/App.Console/bin/Debug
+/SampleApp/App.Console/obj/Debug
+/SampleApp/App.Domain/bin/Debug
+/SampleApp/App.Domain/obj/Debug
+/SampleApp/App.Service/bin/Debug
+/SampleApp/App.Service/obj/Debug
+/SampleApp/App.Service.Test/bin/Debug
+/SampleApp/App.Service.Test/obj/Debug
+/SampleApp/packages
